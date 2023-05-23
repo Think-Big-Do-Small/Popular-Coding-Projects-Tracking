@@ -19,6 +19,7 @@ Popular-Coding-Projects-Tracking
 - sklearn [A2Z](https://github.com/Kassout/MachineLearning_A_to_Z)
 - autoencoder [DENOISE](https://keras.io/examples/vision/autoencoder/)
 - video classification [TRANSFORMER](https://keras.io/examples/vision/video_transformers/)
+- image [RESIZE](https://keras.io/examples/vision/learnable_resizer/)
 
 # Php 
 
