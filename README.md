@@ -20,6 +20,7 @@ Popular-Coding-Projects-Tracking
 - autoencoder [DENOISE](https://keras.io/examples/vision/autoencoder/)
 - video classification [TRANSFORMER](https://keras.io/examples/vision/video_transformers/)
 - image [RESIZE](https://keras.io/examples/vision/learnable_resizer/)
+- segmentation [POINT CLOUD](https://keras.io/examples/vision/pointnet_segmentation/)
 
 # Php 
 
