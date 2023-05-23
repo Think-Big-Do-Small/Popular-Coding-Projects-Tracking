@@ -21,6 +21,7 @@ Popular-Coding-Projects-Tracking
 - video classification [TRANSFORMER](https://keras.io/examples/vision/video_transformers/)
 - image [RESIZE](https://keras.io/examples/vision/learnable_resizer/)
 - segmentation [POINT CLOUD](https://keras.io/examples/vision/pointnet_segmentation/)
+- text [TRANSFORMER](https://keras.io/examples/nlp/text_classification_with_transformer/)
 
 # Php 
 
