@@ -1,4 +1,4 @@
-# Popular-Coding-Projects-Tracking
+### Popular-Coding-Projects-Tracking
 Popular-Coding-Projects-Tracking
 
 # OpenCV 
@@ -15,18 +15,29 @@ Popular-Coding-Projects-Tracking
 
 # Python 
 
-# Machine Learning 
-- sklearn [A2Z](https://github.com/Kassout/MachineLearning_A_to_Z)
+### Machine Learning 
+- Transformer 
+- TimeSeries 
+- Audio
+
+# Transformer 
 - autoencoder [DENOISE](https://keras.io/examples/vision/autoencoder/)
 - video classification [TRANSFORMER](https://keras.io/examples/vision/video_transformers/)
 - image [RESIZE](https://keras.io/examples/vision/learnable_resizer/)
 - segmentation [POINT CLOUD](https://keras.io/examples/vision/pointnet_segmentation/)
 - text [TRANSFORMER](https://keras.io/examples/nlp/text_classification_with_transformer/)
 - text [LSTM](https://keras.io/examples/nlp/bidirectional_lstm_imdb/)
+- sklearn [A2Z](https://github.com/Kassout/MachineLearning_A_to_Z)
 - recommendation [ML](https://keras.io/examples/structured_data/collaborative_filtering_movielens/)
 - recommendation [TRANSFORMER](https://keras.io/examples/structured_data/movielens_recommendations_transformers/)
-- anomaly detection [TIMESERIES](https://keras.io/examples/timeseries/timeseries_anomaly_detection/)
+
+# TimeSeries
 - weather forecasting [TIMESERIES](https://keras.io/examples/timeseries/timeseries_weather_forecasting/)
+- anomaly detection [TIMESERIES](https://keras.io/examples/timeseries/timeseries_anomaly_detection/)
+
+
+# Audio 
+
 
 # Php 
 
