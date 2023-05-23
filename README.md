@@ -26,6 +26,7 @@ Popular-Coding-Projects-Tracking
 - recommendation [ML](https://keras.io/examples/structured_data/collaborative_filtering_movielens/)
 - recommendation [TRANSFORMER](https://keras.io/examples/structured_data/movielens_recommendations_transformers/)
 - anomaly detection [TIMESERIES](https://keras.io/examples/timeseries/timeseries_anomaly_detection/)
+- weather forecasting [TIMESERIES](https://keras.io/examples/timeseries/timeseries_weather_forecasting/)
 
 # Php 
 
