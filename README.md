@@ -23,6 +23,7 @@ Popular-Coding-Projects-Tracking
 - segmentation [POINT CLOUD](https://keras.io/examples/vision/pointnet_segmentation/)
 - text [TRANSFORMER](https://keras.io/examples/nlp/text_classification_with_transformer/)
 - text [LSTM](https://keras.io/examples/nlp/bidirectional_lstm_imdb/)
+- recommendation [ML](https://keras.io/examples/structured_data/collaborative_filtering_movielens/)
 - recommendation [TRANSFORMER](https://keras.io/examples/structured_data/movielens_recommendations_transformers/)
 
 # Php 
