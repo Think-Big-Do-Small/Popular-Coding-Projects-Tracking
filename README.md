@@ -15,10 +15,6 @@ Popular-Coding-Projects-Tracking
 
 # Python 
 
-### Machine Learning 
-- Transformer 
-- TimeSeries 
-- Audio
 
 # Transformer 
 - autoencoder [DENOISE](https://keras.io/examples/vision/autoencoder/)
