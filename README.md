@@ -25,7 +25,7 @@ Popular-Coding-Projects-Tracking
 - text [LSTM](https://keras.io/examples/nlp/bidirectional_lstm_imdb/)
 - recommendation [ML](https://keras.io/examples/structured_data/collaborative_filtering_movielens/)
 - recommendation [TRANSFORMER](https://keras.io/examples/structured_data/movielens_recommendations_transformers/)
-- autoencoder [TIMESERIES](https://keras.io/examples/timeseries/timeseries_anomaly_detection/)
+- anomaly detection [TIMESERIES](https://keras.io/examples/timeseries/timeseries_anomaly_detection/)
 
 # Php 
 
