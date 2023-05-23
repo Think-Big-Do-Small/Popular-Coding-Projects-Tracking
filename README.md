@@ -17,6 +17,7 @@ Popular-Coding-Projects-Tracking
 
 # Machine Learning 
 - sklearn [A2Z](https://github.com/Kassout/MachineLearning_A_to_Z)
+- autoencoder [DENOISE](https://keras.io/examples/vision/autoencoder/)
 
 # Php 
 
