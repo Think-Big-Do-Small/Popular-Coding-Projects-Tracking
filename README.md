@@ -39,5 +39,6 @@ Popular-Coding-Projects-Tracking
 # Audio 
 - music [LSTM](https://github.com/DamiPayne/AI-Music-Composer)
 - music [LSTM](https://github.com/aishoot/AI_Music_Composition)
+- music [LSTM](https://github.com/topics/ai-music)
 
 
