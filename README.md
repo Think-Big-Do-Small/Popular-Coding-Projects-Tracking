@@ -42,7 +42,6 @@ Popular-Coding-Projects-Tracking
 - music [LSTM](https://github.com/topics/ai-music)
 
 # OpenGL 
-- basic [Hello World](https://github.com/michael-brade/QGLViewer) 
-- 
+- basic [3DViewer](https://github.com/michael-brade/QGLViewer) 
 
 
