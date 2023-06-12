@@ -18,9 +18,7 @@ Popular-Coding-Projects-Tracking
 
 # Php 
 
-# OpenGL 
-- opengl [glfw](https://github.com/assimp/assimp/tree/v5.2.5)
-- opengl [glfw demo](https://github.com/cod3rkane/Game-glfw)
+
 
 
 # Transformer 
@@ -45,6 +43,8 @@ Popular-Coding-Projects-Tracking
 - music [LSTM](https://github.com/topics/ai-music)
 
 # OpenGL 
+- opengl [glfw](https://github.com/assimp/assimp/tree/v5.2.5)
+- opengl [glfw demo](https://github.com/cod3rkane/Game-glfw)
 - basic [3DViewer](https://github.com/michael-brade/QGLViewer) 
 
 # K8S 
